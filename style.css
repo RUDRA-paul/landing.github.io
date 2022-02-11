@@ -1,0 +1,15 @@
+#header.scrolled{
+    background-color: rgb(43, 40, 40);
+}
+.w-45{
+    min-width: 45rem;
+}
+.dropdown-menu{
+    display: none;
+}
+.bg-light-1000{
+    background-color: #f2f6fc;
+}
+.bg-dark-1000{
+    background-color: #e0e5ec;
+}
